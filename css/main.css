@@ -1,0 +1,40 @@
+body
+{
+  font-family: 'Inter';
+  background: #e4e0ff;
+  margin-left: 40px;
+}
+
+div#header
+{
+  margin-top: -8px;
+  width: 96%;
+}
+
+div#content
+{
+  width: 96%;
+  font-size: 130%;
+}
+
+div#footer
+{
+  width: 96%;
+  margin-top: 20px;
+}
+
+h1
+{
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 300%;
+  color: #358ec7;
+}
+
+h2
+{
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 150%;
+  color: #358ec7;
+}
